@@ -23,6 +23,10 @@ Scenario Outline: Login Data Driven
   |email               |password    |
   |admin@yourstore.com |admin       |
   |admin@yourstore.com |admin123    |
+  |admin@yourstore.com |admin123    |
+  |admin@yourstore.com |admin123    |
+  |admin@yourstore.com |admin123    |
+  |admin@yourstore.com |admin123    |
   
   
   
